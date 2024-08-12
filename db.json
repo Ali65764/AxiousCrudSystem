@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "2dd7",
+      "fullName": "Mehdi",
+      "age": "30",
+      "email": "ali@gmail.com",
+      "position": "developer"
+    },
+    {
+      "id": "07a8",
+      "fullName": "Ali",
+      "age": "17",
+      "email": "ali@gmail.com",
+      "position": "frontend"
+    },
+    {
+      "id": "d1fe",
+      "fullName": "Michael",
+      "age": "20",
+      "email": "ali@gmail.com",
+      "position": "developer"
+    }
+  ]
+}

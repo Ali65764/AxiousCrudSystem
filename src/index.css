@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+body {
+    background-color: #222;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 700;
+  }
+  .activeLink {
+    color: rgb(255, 75, 105);
+  }
+  
+  .Link {
+    color: rgb(0, 0, 155);
+  }
+  .Link:hover {
+    color: rgb(255, 75, 105);
+    transition: 0.5s ease-in-out;
+  }
+  
+  .errorImg{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+  }
+  #sorts{
+    font-size: 17px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+  .maindiv2{
+    margin: 50px auto;
+    background-color: white;
+    text-align: center;
+    height: 300px; 
+    padding: 20px;
+    border-radius: 10px;
+    width: 700px;
+  }
+ 
+
+
+.infoh2{
+  font-size: 40px;
+}
+.infop{
+  font-size: 30px;
+}
